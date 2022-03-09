@@ -14,6 +14,5 @@ To minimize the amount of time required to find the type of plant disease and to
 In our system we are using CNN model which is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data
 
 Train a model which gives better accuracy and identify the plant disease fast
-![image](https://user-images.githubusercontent.com/87575630/157492664-daa00480-c877-4f9d-98ca-7a6691b1f997.png)
 
 ![testing](https://user-images.githubusercontent.com/87575630/157492596-6f42239f-d88e-4145-ae6c-eabe9512517e.png)
