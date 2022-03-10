@@ -1,6 +1,6 @@
 # Leaf-Fungicide-Recomendation
 
-** INTRODUCTION:**
+**INTRODUCTION:**
 In countries like India it is of utmost importance to bring technological  advancement in the fields related to crop productivity.
 
 Crops worth Rs 50,000 crore are lost owing to pest and disease attack every year because of not able to find a the disease and treat it in early stages.
