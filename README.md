@@ -18,3 +18,9 @@ Train a model which gives better accuracy and identify the plant disease fast
 
 **SYSTEM RESULTS:**
 ![testing](https://user-images.githubusercontent.com/87575630/157492596-6f42239f-d88e-4145-ae6c-eabe9512517e.png)
+
+
+
+**APPLICATION**
+
+![3](https://user-images.githubusercontent.com/87575630/192083145-d5b0caf1-e2fa-46c8-ad19-8a39fa9da32c.PNG)
