@@ -23,4 +23,7 @@ Train a model which gives better accuracy and identify the plant disease fast
 
 **APPLICATION**
 
-![3](https://user-images.githubusercontent.com/87575630/192083145-d5b0caf1-e2fa-46c8-ad19-8a39fa9da32c.PNG)
+![2](https://user-images.githubusercontent.com/87575630/192083176-57a4d39f-4ca8-4e03-b0a5-777ed5182f57.PNG)
+
+![4](https://user-images.githubusercontent.com/87575630/192083184-190696ae-4fd1-4b7c-a8ff-2704f13a0f7f.PNG)
+
